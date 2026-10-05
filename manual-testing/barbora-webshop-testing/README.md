@@ -8,7 +8,7 @@ The project was created as a practical QA portfolio project and focuses on the r
 
 Both functional and non-functional testing were performed. The project includes test planning, test case design and execution, defect reporting, and a final testing result report.
 
-> This is an independent testing project created for educational and portfolio purposes and is not affiliated with Barbora.lv.
+> This is an independent testing project created for educational and portfolio purposes and is not affiliated with or endorsed by Barbora.lv. Testing was limited to publicly accessible functionality using normal user interactions. No security exploitation, unauthorized access or access to other users' data was performed.
 
 ---
 
