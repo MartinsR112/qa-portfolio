@@ -252,3 +252,23 @@ barbora-webshop-testing/
 └── testing-result-report/
     └── Testing Result Report.pdf
 ```
+## Skills Demonstrated
+
+This project demonstrates practical experience with:
+
+- Manual software testing
+- Test planning
+- Test case design and execution
+- Functional and non-functional testing
+- Black box testing
+- Experience-based testing
+- Input validation testing
+- Localization testing
+- Usability testing
+- Basic performance testing
+- Responsive/mobile testing
+- Defect identification and documentation
+- Defect prioritization
+- Test result analysis and reporting
+- Chrome DevTools
+- Git and GitHub
