@@ -252,6 +252,10 @@ barbora-webshop-testing/
 └── testing-result-report/
     └── Testing Result Report.pdf
 ```
+
+---
+
+
 ## Skills Demonstrated
 
 This project demonstrates practical experience with:
