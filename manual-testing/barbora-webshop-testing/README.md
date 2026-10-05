@@ -251,3 +251,4 @@ barbora-webshop-testing/
 │
 └── testing-result-report/
     └── Testing Result Report.pdf
+```
