@@ -4,6 +4,8 @@ Welcome to my Software Quality Assurance portfolio.
 
 This repository contains practical manual and automated testing projects demonstrating my experience with test planning, test case design, defect reporting, test execution and test automation.
 
+Currently building my portfolio for Junior QA / QA Automation opportunities.
+
 ## Skills & Tools
 
 - Manual Testing
