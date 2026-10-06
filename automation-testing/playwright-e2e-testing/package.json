@@ -1,0 +1,16 @@
+{
+  "name": "playwright-e2e-testing",
+  "version": "1.0.0",
+  "description": "QA automation portfolio project using Playwright and JavaScript.",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1",
+    "dotenv": "^18.0.5"
+  }
+}
