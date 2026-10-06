@@ -102,8 +102,6 @@ const ticketCount = page.locator('#ticket-count');
 
 await expect(ticketCount).toHaveText('3');
 
-await page.pause();
-
 await page.getByPlaceholder('Your full name').fill('Martin');
 
 await page.getByPlaceholder('you@email.com').fill(USER_EMAIL);
