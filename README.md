@@ -44,6 +44,24 @@ Manual system testing of selected Barbora.lv webshop functionality, including re
 
 ### Automation Testing
 
-Automation projects using JavaScript and Playwright.
+#### [Playwright E2E Testing Project](./automation-testing/playwright-e2e-testing/)
 
-> Currently in progress.
+Automated end-to-end testing project using JavaScript and Playwright.
+
+The project includes UI and API-based automated tests covering:
+
+- Event creation and booking
+- E-commerce order placement
+- API order creation and UI validation
+- Refund eligibility rules
+- UI interactions, dialogs and iframe handling
+
+**Technologies and tools:**
+- JavaScript
+- Playwright
+- Node.js
+- REST API testing
+- GitHub Actions
+- Environment variables and GitHub Secrets
+
+The test suite is also configured to run automatically through GitHub Actions.
